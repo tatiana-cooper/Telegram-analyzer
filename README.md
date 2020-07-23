@@ -40,6 +40,9 @@ For launching app:
 ```sh
 > python launch.py
 ```
+### Features
+By creating word usage statistics this app can easily help you to draw a psychological portrait of a person.<br>
+Because the words we use in actual life can show our habits, character and tell a lot about us.
 
 ### Usage
 All usage steps are described dynamically during the program run.
